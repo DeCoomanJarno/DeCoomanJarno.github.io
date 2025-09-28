@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting...</title>
+  <script>
+    // Capture the current path the user tried 
+    var path = window.location.pathname;
+    // Redirect to the home page but with a query parameter
+    window.location.replace('/?redirected=true#' + path);
+  </script>
+</head>
+<body></body>
+</html>
