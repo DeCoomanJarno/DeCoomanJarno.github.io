@@ -1,0 +1,275 @@
+{
+  "freelance": {
+    "ui": {
+      "sending": "Aanvraag verzenden...",
+      "getQuote": "Offerte aanvragen",
+      "getOffer": "Offerte aanvragen",
+      "other": "Overig / Niet vermeld"
+    },
+    "hero": {
+      "status": "Beschikbaar voor nieuwe projecten",
+      "title1": "Freelance Softwareontwikkelaar",
+      "title2": "Digitale Realiteit Ontwikkelen",
+      "subtitle": "Gespecialiseerd in high-performance VR/AR, complexe webapplicaties en enterprise software voor vooruitstrevende bedrijven.",
+      "getintouch": "Offerte aanvragen",
+      "viewwork": "Bekijk portfolio",
+      "techStack": "Kerntechnologieën",
+      "badge1": {
+        "title": "Immersieve Technologie",
+        "sub": "VR/AR & 3D"
+      },
+      "badge2": {
+        "title": "Full Stack",
+        "sub": "Web & Desktop"
+      }
+    },
+    "expertises": {
+      "title": "Technische Expertise",
+      "desc": "End-to-end ontwikkelingsdiensten afgestemd op uw bedrijfsdoelstellingen.",
+      "hour": "u",
+      "setup": " setup",
+      "DESK": {
+        "title": "Desktopsoftware",
+        "desc": "Robuuste enterprise tools met offline ondersteuning, gebouwd met .NET/C#.",
+        "shortdesc": "Desktopapplicatiefunctionaliteiten configureren"
+      },
+      "CPP": {
+        "title": "High-Performance C++",
+        "desc": "Native systemen en low-level optimalisatie voor veeleisende toepassingen.",
+        "shortdesc": "Low-level ontwikkeling configureren"
+      },
+      "WEB": {
+        "title": "Moderne Webapps",
+        "desc": "Moderne, responsieve applicaties met Angular en TypeScript. Van websites tot complexe SPA’s.",
+        "shortdesc": "Webapplicatiefunctionaliteiten configureren"
+      },
+      "VR": {
+        "title": "VR/AR-oplossingen",
+        "desc": "Immersieve ervaringen voor training, visualisatie en interactieve toepassingen.",
+        "shortdesc": "VR/AR-specifieke functionaliteiten configureren"
+      }
+    },
+    "projects": {
+      "title": "Portfolio",
+      "subtitle": "Echte projecten die technische expertise en probleemoplossend vermogen tonen.",
+      "Category": {
+        "all": "Alle projecten",
+        "web": "Webapps",
+        "cpp": "C++ / Native",
+        "desktop": "Desktopapps",
+        "vr/ar": "VR/AR"
+      }
+    },
+    "pricing": {
+      "modelsTitle": "Samenwerkingsmodellen",
+      "modelsSubtitle": "Transparante prijsstructuren voor flexibiliteit of voorspelbaarheid.",
+      "hourly": {
+        "title": "Time & Materials",
+        "desc": "Agile ontwikkeling voor evoluerende vereisten. U betaalt enkel voor de effectief bestede tijd.",
+        "cta": "Start uurtarief",
+        "flexible": "Maximale flexibiliteit",
+        "perhour": "Gedetailleerde tijdsregistratie",
+        "reports": "Wekelijkse sprints"
+      },
+      "fixed": {
+        "title": "Vaste prijs",
+        "desc": "Duidelijk gedefinieerde opleveringen tegen een gegarandeerde prijs. Ideaal voor projecten met heldere specificaties.",
+        "cta": "Vaste offerte aanvragen",
+        "fixed": "Budgetzekerheid",
+        "milestone": "Betaling per mijlpaal",
+        "warranty": "Inclusief bugfix-garantie"
+      },
+      "recommended": "Meest gekozen"
+    },
+    "contact": {
+      "title": "Laten we samenwerken",
+      "desc": "Beschikbaar voor opdrachten",
+      "primary": {
+        "title": "Voorstel aanvragen",
+        "desc": "Beschrijf uw idee en ontvang een eerste inschatting.",
+        "link": "Start nu"
+      },
+      "schedule": {
+        "title": "Plan een kennismakingsgesprek",
+        "desc": "Een introductie van 30 minuten om haalbaarheid te bespreken.",
+        "link": "Bekijk kalender"
+      },
+      "linkedIn": {
+        "title": "Connecteer op LinkedIn",
+        "desc": "Bekijk mijn achtergrond en netwerk.",
+        "link": "Bekijk profiel"
+      },
+      "note": "Rechtstreeks contact met de ontwikkelaar • Geen bureaukosten • Eerlijk technisch advies"
+    },
+    "value": {
+      "title": "Het Freelance Voordeel",
+      "subtitle": "Wat klanten waarderen in onze samenwerking",
+      "local": {
+        "title": "Lokaal & bereikbaar",
+        "desc": "Gevestigd in België. Beschikbaar voor on-site workshops en vlotte communicatie."
+      },
+      "quality": {
+        "title": "Kwalitatieve code",
+        "desc": "Oplossingen die duurzaam zijn en meegroeien met uw bedrijf."
+      },
+      "transparent": {
+        "title": "Radicale transparantie",
+        "desc": "Heldere communicatie, realistische inschattingen en regelmatige voortgangsupdates."
+      },
+      "flexible": {
+        "title": "Agile mindset",
+        "desc": "Snel schakelen en aanpassen zonder bureaucratische vertraging."
+      }
+    },
+    "quote": {
+      "title": "Projectaanvraag",
+      "name": "Volledige naam",
+      "email": "Zakelijk e-mailadres",
+      "service": "Interessegebied",
+      "budget": "Verwacht budget",
+      "details": "Projectcontext",
+      "cancel": "Annuleren",
+      "submit": "E-mail opstellen",
+      "budgets": {
+        "small": "Micro / Prototype (< €2k)",
+        "medium": "Standaardproject (€2k - €5k)",
+        "large": "Enterprise / Complex (€5k+)",
+        "tbd": "Nog niet zeker / Te bespreken"
+      },
+      "errors": {
+        "email": "Gelieve een geldig e-mailadres in te voeren"
+      }
+    },
+    "process": {
+      "title": "Ontwikkelproces",
+      "subtitle": "Een gestructureerde aanpak om projectsucces te garanderen.",
+      "step1": {
+        "title": "Analyse",
+        "desc": "We stemmen doelstellingen, technische randvoorwaarden en succescriteria af."
+      },
+      "step2": {
+        "title": "Bouwen & Itereren",
+        "desc": "Snelle ontwikkelsprints met regelmatige demo’s voor feedback."
+      },
+      "step3": {
+        "title": "Lancering & Ondersteuning",
+        "desc": "Vlotte oplevering, overdracht van documentatie en monitoring van stabiliteit."
+      }
+    },
+    "modal": {
+      "success": {
+        "title": "Aanvraag verzonden!",
+        "desc": "Ik heb een concept opgesteld in uw standaard e-mailprogramma.<br>Klik op <strong>Verzenden</strong> om de aanvraag te voltooien."
+      }
+    },
+    "calc": {
+      "badge": "Kostencalculator",
+      "title": "Projectkostenschatting",
+      "subtitle": "Ontvang meteen een indicatieve kostprijs voor uw project",
+      "step1Title": "Projecttype & schaal",
+      "step1Desc": "Kies uw projectcategorie en een geschatte omvang",
+      "projectScale": "Projectomvang",
+      "hour": "u",
+      "size": {
+        "proto": {
+          "title": "Klein / Prototype",
+          "sub": "Proof of concept of MVP"
+        },
+        "mvp": {
+          "title": "Middelgroot",
+          "sub": "Applicatie met volledige functionaliteit"
+        },
+        "production": {
+          "title": "Groot / Enterprise",
+          "sub": "Productieklaar systeem"
+        }
+      },
+      "step2Title": "Kernfunctionaliteiten",
+      "step2Desc": "Selecteer de functionaliteiten die uw project nodig heeft",
+      "hasDesign": "Ontwerp aangeleverd",
+      "hasDesignDesc": "U beschikt reeds over professionele designs",
+      "hasBackend": "Backend / Server vereist",
+      "hasBackendDesc": "Serverlogica en databank",
+      "backend": {
+        "simple": "Eenvoudige API",
+        "medium": "Standaard backend",
+        "complex": "Complexe architectuur"
+      },
+      "needsAuth": "Gebruikersauthenticatie",
+      "needsPayments": "Betaalintegratie",
+      "needsAnalytics": "Analytics & tracking",
+      "step3vrTitle": "VR/AR-functionaliteiten",
+      "step3vrDesc": "Configureer virtual/augmented reality-specificaties",
+      "vr": {
+        "platforms": "Doelplatformen",
+        "interaction": "Interactiecomplexiteit",
+        "interactionBasic": "Basis (kijken/klikken)",
+        "interactionAdvanced": "Geavanceerd (handtracking)",
+        "interactionPhysics": "Fysica-gebaseerde interacties",
+        "graphics": "Visuele kwaliteit",
+        "graphicsLow": "Laag (mobiele VR)",
+        "graphicsMedium": "Middelmatig",
+        "graphicsHigh": "Hoog (PC VR)",
+        "graphicsUltra": "Ultra (fotorealistisch)",
+        "multiplayer": "Multiplayer-ondersteuning",
+        "voiceChat": "Spraakcommunicatie",
+        "customShaders": "Aangepaste visuele effecten"
+      },
+      "step3webTitle": "Webapplicatiefunctionaliteiten",
+      "step3webDesc": "Configureer de vereisten van uw webproject",
+      "web": {
+        "uiComplexity": "Interfacecomplexiteit",
+        "uiSimple": "Eenvoudig (enkele pagina’s)",
+        "uiMedium": "Gemiddeld (standaard app)",
+        "uiComplex": "Complex (veel functionaliteiten)",
+        "mobile": "Mobiel responsief",
+        "pwa": "Progressive Web App",
+        "ssr": "Server-side rendering",
+        "realtime": "Realtime updates",
+        "admin": "Admin dashboard"
+      },
+      "step3deskTitle": "Desktopapplicatiefunctionaliteiten",
+      "step3deskDesc": "Configureer desktopsoftwarevereisten",
+      "desk": {
+        "hardwareIO": "Hardware-integratie",
+        "ioSimple": "Eenvoudig (bestanden/USB)",
+        "ioMedium": "Gemiddeld (serieel/apparaten)",
+        "ioComplex": "Complex (custom hardware)",
+        "database": "Databasetype",
+        "dbSqlite": "SQLite (embedded)",
+        "dbSqlServer": "SQL Server",
+        "dbPostgres": "PostgreSQL",
+        "reporting": "Rapporten & exports",
+        "installer": "Professionele installer"
+      },
+      "step3cppTitle": "C++-projectfunctionaliteiten",
+      "step3cppDesc": "Configureer native ontwikkelvereisten",
+      "cpp": {
+        "platforms": "Doelplatformen",
+        "optimization": "Prestatieniveau",
+        "optStandard": "Standaard",
+        "optHigh": "Geoptimaliseerd",
+        "optExtreme": "Maximale prestaties",
+        "drivers": "Aangepaste drivers vereist",
+        "realtime": "Realtime verwerking",
+        "threading": "Multithreading",
+        "gui": "Grafische interface"
+      },
+      "step4Title": "Hardware & apparatuur",
+      "step4Desc": "Is specifieke hardware vereist voor het project?",
+      "needsHardware": "Aankoop van hardware nodig",
+      "resultTitle": "Geschatte projectkost",
+      "totalHours": "Ontwikkeluren",
+      "weeks": "weken (ongeveer)",
+      "costBreakdown": "Kostenoverzicht",
+      "development": "Ontwikkeling",
+      "discount": "Volumekorting",
+      "hardware": "Hardware & apparatuur",
+      "procurementFee": "Servicekost voor aankoop",
+      "totalEstimate": "Totale schatting",
+      "excludingVat": "Excl. 21% btw",
+      "requestQuote": "Formele offerte aanvragen",
+      "disclaimer": "Dit is een indicatieve schatting. De uiteindelijke prijs hangt af van de gedetailleerde vereisten en kan variëren. Contacteer mij voor een nauwkeurige offerte."
+    }
+  }
+}

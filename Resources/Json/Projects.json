@@ -1,0 +1,125 @@
+[
+  {
+    "id": "TaskFlow",
+    "category": "web",
+    "title": "Project.TaskFlow.Title",
+    "description": "Project.TaskFlow.Description",
+    "technologies": [
+      "Angular",
+      "TypeScript",
+      "C#",
+      "Visual Studio Code"
+    ],
+    "images": [
+      "https://github.com/user-attachments/assets/cbce7cdb-b919-42fb-94c0-62ccf29dadb4",
+      "https://github.com/user-attachments/assets/e11a6fe4-6505-4d68-a452-f4e9347ce62a",
+      "https://github.com/user-attachments/assets/6306384b-a51c-47b2-98a5-7d79fc684eb5"
+    ],
+    "link": {
+      "name": "Project.TaskFlow.Links.Github",
+      "icon": "Github",
+      "url": "https://github.com/DeCoomanJarno/TaskFlow"
+    }
+  },
+  {
+    "id": "Inventory",
+    "category": "web",
+    "title": "Project.Inventory.Title",
+    "description": "Project.Inventory.Description",
+    "technologies": [
+      "Angular",
+      "TypeScript"
+    ],
+    "images": [
+      "Inventory_List.png",
+      "Inventory_Detail.png",
+      "Inventory_Create.png"
+    ],
+    "link": {
+      "name": "Project.Inventory.Links.TryOut",
+      "icon": "Export",
+      "url": "/Inventory"
+    }
+  },
+  {
+    "id": "Appointments",
+    "category": "web",
+    "title": "Project.Appointments.Title",
+    "description": "Project.Appointments.Description",
+    "technologies": [
+      "Angular",
+      "TypeScript"
+    ],
+    "images": [
+      "Appointments_Booking.png",
+      "Appointments_Admin.png",
+      "Appointments_Login.png"
+    ],
+    "link": {
+      "name": "Project.Appointments.Links.TryOut",
+      "icon": "Export",
+      "url": "/Appointments"
+    }
+  },
+  {
+    "id": "GameOfLife",
+    "category": "cpp",
+    "title": "Project.GameOfLife.Title",
+    "description": "Project.GameOfLife.Description",
+    "technologies": [
+      "C",
+      "C++",
+      "SDL2",
+      "Visual Studio"
+    ],
+    "images": [
+      "GameOfLife_1.png"
+    ],
+    "link": {
+      "name": "Project.GameOfLife.Links.Github",
+      "icon": "Github",
+      "url": "https://github.com/DeCoomanJarno/Conway-GameOfLife"
+    }
+  },
+  {
+    "id": "Calculator",
+    "category": "web",
+    "title": "Project.Calculator.Title",
+    "description": "Project.Calculator.Description",
+    "technologies": [
+      "TypeScript",
+      "CSS",
+      "Angular",
+      "Visual Studio Code"
+    ],
+    "images": [
+      "Calculator_Programming.png",
+      "Calculator_Science.png",
+      "Calculator_Simple.png"
+    ],
+    "link": {
+      "name": "Project.Calculator.Links.TryOut",
+      "icon": "Export",
+      "url": "/Calculator"
+    }
+  },
+  {
+    "id": "HISMB",
+    "category": "vr/ar",
+    "title": "Project.HISMB.Title",
+    "description": "Project.HISMB.Description",
+    "technologies": [
+      "Unity",
+      "C#",
+      "Oculus"
+    ],
+    "images": [
+      "hismb.jpg"
+    ],
+    "link": {
+      "name": "Project.HISMB.Links.Contractors",
+      "icon": "Export",
+      "url": "https://tech4fun.be/vr-honey-i-shrunk-teambuilding/"
+    }
+  }
+]

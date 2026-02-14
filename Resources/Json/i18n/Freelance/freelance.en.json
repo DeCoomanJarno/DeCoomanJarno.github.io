@@ -1,0 +1,275 @@
+{
+  "freelance": {
+    "ui": {
+      "sending": "Sending Request...",
+      "getQuote": "Get a Quote",
+      "getOffer": "Request offer",
+      "other": "Other / Not Listed"
+    },
+    "hero": {
+      "status": "Available for new projects",
+      "title1": "Freelance Software Developer",
+      "title2": "Engineering Digital Reality",
+      "subtitle": "Specialized in high-performance VR/AR, complex web applications, and enterprise software for forward-thinking businesses.",
+      "getintouch": "Request Quote",
+      "viewwork": "View Portfolio",
+      "techStack": "Core Technologies",
+      "badge1": {
+        "title": "Immersive Tech",
+        "sub": "VR/AR & 3D"
+      },
+      "badge2": {
+        "title": "Full Stack",
+        "sub": "Web & Desktop"
+      }
+    },
+    "expertises": {
+      "title": "Technical Expertise",
+      "desc": "End-to-end development services tailored to your business goals.",
+      "hour": "hr",
+      "setup": " setup",
+      "DESK": {
+        "title": "Desktop Software",
+        "desc": "Robust, offline-capable enterprise tools built with .NET/C#.",
+        "shortdesc": "Configure desktop application features"
+      },
+      "CPP": {
+        "title": "High-Performance C++",
+        "desc": "Native systems and low-level optimization for demanding tasks.",
+        "shortdesc": "Configure low-level development"
+      },
+      "WEB": {
+        "title": "Modern Web Apps",
+        "desc": "Modern, responsive applications with Angular and TypeScript. From websites to complex SPAs.",
+        "shortdesc": "Configure web application features"
+      },
+      "VR": {
+        "title": "VR/AR Solutions",
+        "desc": "Immersive experiences for training, visualization and interactive applications.",
+        "shortdesc": "Configure VR/AR-specific features"
+      }
+    },
+    "projects": {
+      "title": "Portfolio",
+      "subtitle": "Real projects demonstrating technical expertise and problem-solving.",
+      "Category": {
+        "all": "All Projects",
+        "web": "Web Apps",
+        "cpp": "C++ / Native",
+        "desktop": "Desktop Apps",
+        "vr/ar": "VR/AR"
+      }
+    },
+    "pricing": {
+      "modelsTitle": "Engagement Models",
+      "modelsSubtitle": "Transparent pricing structures designed for flexibility or predictability.",
+      "hourly": {
+        "title": "Time & Materials",
+        "desc": "Agile development for evolving requirements. You pay for the exact time spent delivering value.",
+        "cta": "Start Hourly",
+        "flexible": "Maximum flexibility",
+        "perhour": "Detailed time reporting",
+        "reports": "Weekly sprints"
+      },
+      "fixed": {
+        "title": "Fixed Price Scope",
+        "desc": "Defined deliverables at a guaranteed cost. Perfect for projects with clear specifications.",
+        "cta": "Get Fixed Quote",
+        "fixed": "Budget security",
+        "milestone": "Milestone-based payments",
+        "warranty": "Includes bug-fix warranty"
+      },
+      "recommended": "Most Popular"
+    },
+    "contact": {
+      "title": "Let's Collaborate",
+      "desc": "Available for work",
+      "primary": {
+        "title": "Request a Proposal",
+        "desc": "Describe your vision and get a preliminary estimate.",
+        "link": "Start Now"
+      },
+      "schedule": {
+        "title": "Book a Discovery Call",
+        "desc": "A 30-min intro to discuss feasibility.",
+        "link": "View Calendar"
+      },
+      "linkedIn": {
+        "title": "Connect on LinkedIn",
+        "desc": "Verify my background and network.",
+        "link": "View Profile"
+      },
+      "note": "Direct developer contact • No agency overhead • Honest technical advice"
+    },
+    "value": {
+      "title": "The Freelance Advantage",
+      "subtitle": "What clients value in our collaboration",
+      "local": {
+        "title": "Local & Accessible",
+        "desc": "Based in Belgium. Available for on-site workshops and easy communication."
+      },
+      "quality": {
+        "title": "Quality Code",
+        "desc": "Solutions built to last and scale with your business."
+      },
+      "transparent": {
+        "title": "Radical Transparency",
+        "desc": "Clear communication, realistic estimates, and regular progress updates."
+      },
+      "flexible": {
+        "title": "Agile Mindset",
+        "desc": "Quick to pivot and adapt without bureaucratic delays."
+      }
+    },
+    "quote": {
+      "title": "Project Inquiry",
+      "name": "Full Name",
+      "email": "Business Email",
+      "service": "Area of Interest",
+      "budget": "Anticipated Budget",
+      "details": "Project Context",
+      "cancel": "Cancel",
+      "submit": "Compose Email",
+      "budgets": {
+        "small": "Micro / Prototype (< €2k)",
+        "medium": "Standard Project (€2k - €5k)",
+        "large": "Enterprise / Complex (€5k+)",
+        "tbd": "Not sure yet / To be discussed"
+      },
+      "errors": {
+        "email": "Please enter a valid email address"
+      }
+    },
+    "process": {
+      "title": "Development Process",
+      "subtitle": "A structured approach to ensure project success.",
+      "step1": {
+        "title": "Discovery",
+        "desc": "We align on objectives, technical constraints, and success metrics."
+      },
+      "step2": {
+        "title": "Build & Iterate",
+        "desc": "Rapid development sprints with regular demos to gather feedback."
+      },
+      "step3": {
+        "title": "Launch & Support",
+        "desc": "Seamless deployment, documentation handover, and stability monitoring."
+      }
+    },
+    "modal": {
+      "success": {
+        "title": "Request Sent!",
+        "desc": "I have prepared the draft in your default email client.<br>Please hit <strong>Send</strong> to complete the request."
+      }
+    },
+      "calc": {
+      "badge": "Cost Calculator",
+      "title": "Project Cost Estimator",
+      "subtitle": "Get an instant ballpark estimate for your project",
+      "step1Title": "Project Type & Scale",
+      "step1Desc": "Choose your project category and approximate size",
+      "projectScale": "Project Size",
+      "hour": "h",
+      "size": {
+        "proto": {
+          "title": "Small / Prototype",
+          "sub": "Proof of concept or MVP"
+        },
+        "mvp": {
+          "title": "Medium",
+          "sub": "Full-featured application"
+        },
+        "production": {
+          "title": "Large / Enterprise",
+          "sub": "Production-ready system"
+        }
+      },
+      "step2Title": "Core Features",
+      "step2Desc": "Select the functionality your project requires",
+      "hasDesign": "Design Provided",
+      "hasDesignDesc": "You already have professional designs",
+      "hasBackend": "Backend / Server Required",
+      "hasBackendDesc": "Server-side logic and database",
+      "backend": {
+        "simple": "Simple API",
+        "medium": "Standard Backend",
+        "complex": "Complex Architecture"
+      },
+      "needsAuth": "User Authentication",
+      "needsPayments": "Payment Integration",
+      "needsAnalytics": "Analytics & Tracking",
+      "step3vrTitle": "VR/AR Features",
+      "step3vrDesc": "Configure virtual/augmented reality specifics",
+      "vr": {
+        "platforms": "Target Platforms",
+        "interaction": "Interaction Complexity",
+        "interactionBasic": "Basic (gaze/click)",
+        "interactionAdvanced": "Advanced (hand tracking)",
+        "interactionPhysics": "Physics-based interactions",
+        "graphics": "Visual Quality",
+        "graphicsLow": "Low (mobile VR)",
+        "graphicsMedium": "Medium",
+        "graphicsHigh": "High (PC VR)",
+        "graphicsUltra": "Ultra (photorealistic)",
+        "multiplayer": "Multiplayer Support",
+        "voiceChat": "Voice Communication",
+        "customShaders": "Custom Visual Effects"
+      },
+      "step3webTitle": "Web Application Features",
+      "step3webDesc": "Configure your web project requirements",
+      "web": {
+        "uiComplexity": "Interface Complexity",
+        "uiSimple": "Simple (few pages)",
+        "uiMedium": "Medium (standard app)",
+        "uiComplex": "Complex (many features)",
+        "mobile": "Mobile Responsive",
+        "pwa": "Progressive Web App",
+        "ssr": "Server-Side Rendering",
+        "realtime": "Real-time Updates",
+        "admin": "Admin Dashboard"
+      },
+      "step3deskTitle": "Desktop Application Features",
+      "step3deskDesc": "Configure desktop software requirements",
+      "desk": {
+        "hardwareIO": "Hardware Integration",
+        "ioSimple": "Simple (files/USB)",
+        "ioMedium": "Medium (serial/devices)",
+        "ioComplex": "Complex (custom hardware)",
+        "database": "Database Type",
+        "dbSqlite": "SQLite (embedded)",
+        "dbSqlServer": "SQL Server",
+        "dbPostgres": "PostgreSQL",
+        "reporting": "Reports & Exports",
+        "installer": "Professional Installer"
+      },
+      "step3cppTitle": "C++ Project Features",
+      "step3cppDesc": "Configure native development requirements",
+      "cpp": {
+        "platforms": "Target Platforms",
+        "optimization": "Performance Level",
+        "optStandard": "Standard",
+        "optHigh": "Optimized",
+        "optExtreme": "Maximum Performance",
+        "drivers": "Custom Drivers Required",
+        "realtime": "Real-time Processing",
+        "threading": "Multithreading",
+        "gui": "Graphical Interface"
+      },
+      "step4Title": "Hardware & Equipment",
+      "step4Desc": "Does the project require specific hardware?",
+      "needsHardware": "Hardware Procurement Needed",
+      "resultTitle": "Estimated Project Cost",
+      "totalHours": "Development Hours",
+      "weeks": "weeks (approx.)",
+      "costBreakdown": "Cost Breakdown",
+      "development": "Development",
+      "discount": "Volume Discount",
+      "hardware": "Hardware & Equipment",
+      "procurementFee": "Procurement Service Fee",
+      "totalEstimate": "Total Estimate",
+      "excludingVat": "Excl. 21% VAT",
+      "requestQuote": "Request Formal Quote",
+      "disclaimer": "This is an indicative estimate. Final pricing depends on detailed requirements and may vary. Contact me for an accurate quote."
+    }
+  }
+}
