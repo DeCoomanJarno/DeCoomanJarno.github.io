@@ -1,0 +1,17 @@
+{
+    "Login": {
+        "Title": "Titel",
+        "Username": "Gebruikersnaam",
+        "Fullname": "Volledige naam",
+        "Password": "Wachtwoord",
+        "Email": "E-mail",
+        "Login": "Inloggen",
+        "GoToLogin": "Ga naar inloggen",
+        "Register": "Registreren",
+        "GoToRegister": "Ga naar registreren",
+        "InvalidCredentials": "Ongeldige gebruikersnaam of wachtwoord"
+    },
+    "PlaceHolders": {
+        "Search": "Zoeken"
+    }
+}
